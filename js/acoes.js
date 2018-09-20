@@ -2,7 +2,7 @@ var idAtual, limite, visitados, largura=0, altura=0, unityObj, isFullScreen=0;
 var tamTituloH1=18, tamTituloH2=15, tamFonte=13, tamLegenda=9;
 var masteryScore, overlayDlg=null;
 var ludos_pasta, ludos_tipo_scorm=2; // 0=sem scorm; 1=lê do BD e salva no scorm; 2=lê e salva no scorm
-var skinCss, skinVet={'bgMain':'#724336','txtMain':'#fff',
+var skinCss, skinVet={'bgMain':'#b76511','txtMain':'#fff',
  'bgRealce':'#C3711D','txtRealce':'#fff',
  'bgAtivo':'#964d02','txtAtivo':'#fff',
  'bgMenuOff':'#C3711D','txtMenuOff':'#fff',
