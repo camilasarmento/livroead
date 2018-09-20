@@ -1,2 +1,2 @@
 # livroead
-Livro EaD para o DN
+Livro EaD
